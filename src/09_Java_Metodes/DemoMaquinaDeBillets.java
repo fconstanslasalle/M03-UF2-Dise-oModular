@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AC3_MaquinaDeBillets {
+public class DemoMaquinaDeBillets {
     private static boolean ModeManteniment; //Variable global per activar mode manteniment
     public static void main(){  
       //Declarem una matriu de dos dimensions.
