@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculadora {
+public class Main {
     public void main(String[] args) {
         pintar_menu();// Métode per pintar el menu i que ens retorni la opció que ha introduit el
                       // usuari
